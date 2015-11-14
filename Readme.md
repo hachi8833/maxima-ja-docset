@@ -5,14 +5,14 @@ Docset for Maxima (a symbolic computation system):
 - Base html: [Maxima Document in Japanese v5.37.2.1](https://osdn.jp/projects/maxima/releases/63925)
 - Tool: [html2dash](https://github.com/xuelangZF/html2Dash)
 
-# Requirement
+## Requirement
 - [Dash](https://kapeli.com/dash)
 
-# Usage for Dash on Mac OS X
+## Usage for Dash on Mac OS X
 
-Just download the docset file and double click to install.
+Just download the [docset file](https://github.com/hachi8833/maxima-ja-docset/releases/download/v5.37.2.1/maxima.docset.zip) and double click to install.
 
-# html2dash usage
+## html2dash usage
 
 1. Prepare python environment including [pip](http://www.lifewithpython.com/2012/11/Python-package-setuptools-pip.html)
 2. `pip install BeautifulSoup4`
