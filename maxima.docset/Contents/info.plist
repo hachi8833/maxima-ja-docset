@@ -10,7 +10,7 @@
             <key>DashDocSetFamily</key>
             <string>maxima</string>
             <key>DocSetPlatformFamily</key>
-            <string>requests</string>
+            <string>maxima</string>
             <key>isDashDocset</key>
             <true/>
             <key>isJavaScriptEnabled</key>
